@@ -1,0 +1,85 @@
+Registration.Number,Accident.Number,Event.Date,Location,Country,Latitude,Longitude,Injury.Severity,Aircraft.damage,Aircraft.Category,Make,Model,Number.of.Engines,Engine.Type,Purpose.of.flight,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Minor.Injuries,Total.Uninjured,Weather.Condition,Broad.phase.of.flight,Survival.Rate,Year,Month
+N1DC,ATL01FA021,2001-01-14,"Troy, AL",United States,31.866667,-86.016667,Non-Fatal,Destroyed,Airplane,Learjet,LJ-60,2.0,Turbo Jet,Executive/corporate,0.0,2.0,0.0,0.0,VMC,Landing,0.99999950000025,2001,1
+N17AE,ATL01FA027,2001-01-24,"Nashville, TN",United States,36.13,-86.653889,Fatal(4),Destroyed,Airplane,Beech,F90-42,2.0,Turbo Prop,Business,4.0,0.0,0.0,0.0,VMC,Takeoff,0.0,2001,1
+N6134A,FTW02FA036,2001-11-12,"Graham, TX",United States,33.256667,-98.447222,Fatal(4),Destroyed,Airplane,Piper,PA-31T1,2.0,Turbo Prop,Executive/corporate,4.0,0.0,0.0,0.0,IMC,Approach,0.0,2001,11
+N132JH,LAX03LA105,2003-03-03,"TRACY, CA",United States,37.649444,-121.375,Non-Fatal,Substantial,Airplane,Aero Commander,690A,2.0,Turbo Prop,Business,0.0,1.0,0.0,3.0,VMC,Takeoff,0.9999990000010001,2003,3
+N705QD,ATL03FA082,2003-04-24,"MOBILE, AL",United States,30.635277,-88.066389,Fatal(1),Substantial,Airplane,Socata,TBM 700B,1.0,Turbo Prop,Executive/corporate,1.0,0.0,0.0,0.0,VMC,Approach,0.0,2003,4
+N930TG,ANC03CA088,2003-06-25,"ILIAMNA, AK",United States,59.756389,-154.901667,Non-Fatal,Substantial,Airplane,De Havilland,DHC-2,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Takeoff,0.0,2003,6
+N258SJ,LAX03CA286,2003-09-13,"KNEELAND, CA",United States,40.716667,-123.9275,Non-Fatal,Substantial,Airplane,Beech,58,2.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Landing,0.0,2003,9
+N50MC,FTW04CA084,2004-02-28,"GRAPE CREEK, TX",United States,31.3575,-100.496111,Non-Fatal,Substantial,Airplane,Cessna,T210M,1.0,Reciprocating,Business,0.0,0.0,2.0,1.0,VMC,Cruise,0.99999950000025,2004,2
+N9089L,ATL04CA146,2004-07-02,"HILLSBORO, AL",United States,34.633333,-87.2,Non-Fatal,Substantial,Airplane,Air Tractor,AT-402A,1.0,Turbo Prop,Business,0.0,0.0,1.0,0.0,VMC,Maneuvering,0.9999990000010001,2004,7
+N3955D,ATL04CA151,2004-07-10,"WALTERBORO, SC",United States,32.75,-80.666667,Non-Fatal,Substantial,Airplane,Cessna,182A,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Descent,0.0,2004,7
+N7222Z,ATL04CA160,2004-07-20,"FOLEY, AL",United States,30.418334,-87.701389,Non-Fatal,Substantial,Airplane,Piper,PA 25,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Maneuvering,0.0,2004,7
+N93DM,LAX04CA278,2004-07-24,"Gridley, CA",United States,39.383333,-121.666667,Non-Fatal,Destroyed,Airplane,Cessna,A185F,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Takeoff,0.0,2004,7
+N8173J,CHI04CA250,2004-09-02,"CRIVITZ, WI",United States,45.214444,-88.072778,Non-Fatal,Substantial,Airplane,Piper,PA-32-301,2.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2004,9
+N29650,ATL04CA193,2004-09-25,"ANDERSON, SC",United States,34.586666,-82.673056,Non-Fatal,Substantial,Airplane,Cessna,177,1.0,Reciprocating,Business,0.0,0.0,0.0,4.0,VMC,Cruise,0.0,2004,9
+N757RD,SEA04CA194,2004-09-27,"FRIDAY HARBOR, WA",United States,48.595833,-122.993055,Non-Fatal,Substantial,Airplane,Cessna,152,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Landing,0.0,2004,9
+N555MN,CHI05CA007,2004-10-16,"PORT AUSTIN, MI",United States,44.047777,-82.914167,Non-Fatal,Substantial,Airplane,Cirrus Design Corp.,SR22,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2004,10
+N558B,CHI05CA010,2004-10-19,"CHESTERFIELD, MO",United States,38.662222,-90.651944,Non-Fatal,Substantial,Airplane,Beech,B-55,2.0,Reciprocating,Business,0.0,0.0,0.0,1.0,IMC,Landing,0.0,2004,10
+N6663P,LAX05CA031,2004-11-10,"NORTH LAS VEGAS, NV",United States,36.288333,-115.294166,Non-Fatal,Substantial,Airplane,Cessna,P210N,1.0,Reciprocating,Business,0.0,0.0,1.0,0.0,VMC,Approach,0.9999990000010001,2004,11
+N6416W,LAX05CA030,2004-11-10,"RANCHO CORDOVA, CA",United States,38.576111,-121.259722,Non-Fatal,Substantial,Airplane,Cessna,P210N,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Cruise,0.0,2004,11
+N141SW,DEN05FA032,2004-12-07,"Montgomery, TX",United States,30.509722,-95.648611,Fatal(2),Destroyed,Airplane,Beech,A45,1.0,Reciprocating,Business,2.0,0.0,0.0,0.0,VMC,Maneuvering,0.0,2004,12
+N194JA,CHI05CA051,2005-01-09,"HARBOR SPRINGS, MI",United States,45.425556,-84.913333,Non-Fatal,Substantial,Airplane,Cessna,414A,2.0,Reciprocating,Business,0.0,0.0,0.0,5.0,VMC,Takeoff,0.0,2005,1
+N8609X,SEA05CA033,2005-01-10,"BILLINGS, MT",United States,45.808611,-108.530834,Non-Fatal,Substantial,Airplane,Cessna,180,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2005,1
+N74RQ,DEN05CA050,2005-01-19,"LOGAN, UT",United States,41.788333,-111.853333,Non-Fatal,Substantial,Airplane,Grumman,G-1159,2.0,Turbo Jet,Business,0.0,0.0,0.0,9.0,IMC,Landing,0.0,2005,1
+XB-JGI,DFW05CA060,2005-01-21,"SAN ANTONIO, TX",United States,29.533611,-98.469723,Non-Fatal,Substantial,Airplane,Sabreliner Corp.,40,2.0,Turbo Jet,Executive/corporate,0.0,0.0,0.0,2.0,VMC,Taxi,0.0,2005,1
+N3138L,DFW05CA062,2005-01-28,"CROSBYTON, TX",United States,33.623889,-101.240833,Non-Fatal,Substantial,Airplane,Cessna,310-J,2.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2005,1
+N169TA,NYC05CA068,2005-04-02,"TETERBORO, NJ",United States,40.85,-74.060833,Non-Fatal,Substantial,Airplane,Canadair,CL-600-2A12,2.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,4.0,IMC,Landing,0.0,2005,4
+N8150F,CHI05CA085,2005-04-02,"ATKINSON, NE",United States,42.5625,-99.037777,Non-Fatal,Substantial,Airplane,Cirrus Design Corp.,SR-22,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Landing,0.0,2005,4
+N92112,DEN05CA067,2005-04-08,"CORTEZ, CO",United States,37.303333,-108.628334,Non-Fatal,Substantial,Airplane,Cessna,182M,1.0,Reciprocating,Business,0.0,0.0,0.0,4.0,VMC,Landing,0.0,2005,4
+N21816,CHI05CA092,2005-04-10,"LINCOLN, NE",United States,40.850833,-96.759167,Non-Fatal,Substantial,Airplane,Mooney,M20M,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,IMC,Cruise,0.0,2005,4
+N3184U,CHI05CA166,2005-06-26,"LAPEER, MI",United States,43.05,-83.283333,Non-Fatal,Substantial,Airplane,Cessna,182F,1.0,Reciprocating,Business,0.0,0.0,1.0,0.0,VMC,Cruise,0.9999990000010001,2005,6
+N3ST,ATL05CA131,2005-07-15,"NEWNAN, GA",United States,33.311389,-84.769723,Non-Fatal,Substantial,Airplane,Cessna,525A,2.0,Turbo Fan,Business,0.0,0.0,0.0,5.0,VMC,Landing,0.0,2005,7
+N9950Q,ANC05CA152,2005-08-13,"WISEMAN, AK",United States,68.145,-148.634444,Non-Fatal,Substantial,Airplane,Piper,PA-18,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2005,8
+N4707U,ANC05CA145,2005-09-03,"MCGRATH, AK",United States,62.083333,-154.666667,Non-Fatal,Substantial,Airplane,Cessna,180,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2005,9
+N8225F,CHI05CA269,2005-09-16,"EMERSON, NE",United States,42.322778,-96.681111,Non-Fatal,Substantial,Airplane,Beech,F33A,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Cruise,0.0,2005,9
+N3873X,ATL06CA013,2005-11-07,"GREER, SC",United States,34.885833,-82.2175,Non-Fatal,Substantial,Airplane,Beech,BE-76,2.0,Reciprocating,Business,0.0,0.0,2.0,0.0,VMC,Approach,0.99999950000025,2005,11
+N6122A,LAX06CA040,2005-11-18,"PALO ALTO, CA",United States,37.461111,-122.115,Non-Fatal,Substantial,Airplane,Cessna,P210R,1.0,Reciprocating,Business,0.0,0.0,0.0,4.0,VMC,Landing,0.0,2005,11
+N86CE,SEA06MA047,2006-01-24,"Carlsbad, CA",United States,33.126945,-117.288889,Fatal(4),Destroyed,Airplane,Cessna,560,2.0,Turbo Fan,Executive/corporate,4.0,0.0,0.0,0.0,VMC,Landing,0.0,2006,1
+N3581C,ATL06CA040,2006-02-01,"BURLINGTON, NC",United States,36.048333,-79.474723,Non-Fatal,Substantial,Airplane,Piper,PA-31-350,2.0,Reciprocating,Executive/corporate,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2006,2
+N6083A,DEN06CA073,2006-05-07,"CODY, WY",United States,44.52,-109.023611,Non-Fatal,Substantial,Airplane,Piper,PA-18-150,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2006,5
+N723C,ANC06CA052,2006-05-10,"ILIAMNA, AK",United States,55.359167,-154.117223,Non-Fatal,Substantial,Airplane,Piper,PA-18,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Approach,0.0,2006,5
+N8585Y,CHI06CA129,2006-05-11,"DONGOLA, IL",United States,37.425,-89.036666,Non-Fatal,Substantial,Airplane,Piper,PA-30,2.0,Reciprocating,Business,0.0,0.0,0.0,3.0,VMC,Landing,0.0,2006,5
+N545TG,ATL06CA080,2006-05-16,"MURFREESBORO, TN",United States,35.880556,-86.380556,Non-Fatal,Substantial,Airplane,Cessna,525,2.0,Turbo Fan,Business,0.0,0.0,0.0,7.0,VMC,Landing,0.0,2006,5
+N460CT,NYC06CA135,2006-05-30,"LEESBURG, VA",United States,39.078056,-77.5575,Non-Fatal,Substantial,Airplane,Flight Design,Gmbh,1.0,Reciprocating,Business,0.0,0.0,1.0,1.0,VMC,Takeoff,0.9999990000010001,2006,5
+N7537N,SEA06CA136,2006-06-02,"STANLEY, ID",United States,44.213611,-114.933056,Non-Fatal,Substantial,Airplane,Cessna,206G,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Takeoff,0.0,2006,6
+N5324R,ATL06CA106,2006-07-21,"ROME, GA",United States,34.353333,-85.154722,Non-Fatal,Substantial,Airplane,Cessna,172F,1.0,Reciprocating,Business,0.0,3.0,0.0,0.0,VMC,Maneuvering,0.9999996666667778,2006,7
+N415GA,ATL06CA113,2006-07-29,"RICEBORO, GA",United States,31.735277,-81.440277,Non-Fatal,Substantial,Airplane,Cessna,208,1.0,Turbo Prop,Business,0.0,0.0,0.0,6.0,VMC,Takeoff,0.0,2006,7
+N7663H,ANC06CA110,2006-08-09,"COLDFOOT, AK",United States,67.253611,-150.206389,Non-Fatal,Substantial,Airplane,Piper,PA-12,1.0,Reciprocating,Business,0.0,0.0,1.0,1.0,VMC,Landing,0.9999990000010001,2006,8
+N2430A,CHI06CA276,2006-09-06,"CEDAR RAPIDS, IA",United States,41.884722,-91.710833,Non-Fatal,Substantial,Airplane,Cessna,T206H,1.0,Reciprocating,Business,0.0,0.0,0.0,3.0,VMC,Climb,0.0,2006,9
+N82905,ANC06CA133,2006-09-18,"KOLIGANEK, AK",United States,60.303611,-156.899444,Non-Fatal,Substantial,Airplane,Piper,PA-18,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Maneuvering,0.0,2006,9
+N134GW,SEA07CA003,2006-10-05,"SPOKANE, WA",United States,47.619723,-117.533889,Non-Fatal,Substantial,Airplane,Cessna,T182T,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2006,10
+N232TN,MIA07FA005,2006-11-01,"FORT LAUDERDALE, FL",United States,26.076945,-80.152222,Non-Fatal,Substantial,Airplane,British Aerospace,HS 125-700A,2.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,12.0,VMC,Landing,0.0,2006,11
+N425JP,CHI07CA033,2006-12-05,"MENOMINEE, MI",United States,45.126389,-87.638333,Non-Fatal,Substantial,Airplane,Cessna,C-425,2.0,Turbo Prop,Business,0.0,0.0,0.0,2.0,VMC,Taxi,0.0,2006,12
+N186AC,SEA07CA042,2007-01-04,"BUCKLEY, WA",United States,47.15,-122,Non-Fatal,Substantial,Airplane,American Champion (acac),8GCBC,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2007,1
+N88JE,DEN07CA057,2007-01-21,"CRAIG, CO",United States,40.491389,-107.525278,Non-Fatal,Substantial,Airplane,"Smith, Ted Aerostar",601P,2.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2007,1
+N777AJ,CHI07LA063,2007-02-02,"CAPE GIRARDEAU, MO",United States,37.225278,-89.573611,Non-Fatal,Substantial,Airplane,Raytheon Aircraft Company,B200,2.0,Turbo Prop,Business,0.0,0.0,0.0,2.0,VMC,Cruise,0.0,2007,2
+N944CA,NYC07FA065,2007-02-02,"Dartmouth, MA",United States,41.6675,-78.976111,Fatal(3),Destroyed,Airplane,Socata,TBM 700,1.0,Turbo Prop,Executive/corporate,3.0,0.0,0.0,0.0,IMC,Go-around,0.0,2007,2
+N332HA,CHI07FA084,2007-03-09,"MUNSTER, IN",United States,41.532223,-87.509167,Fatal(2),Substantial,Airplane,Beech,58,2.0,Reciprocating,Executive/corporate,2.0,0.0,0.0,0.0,VMC,Approach,0.0,2007,3
+N3115U,SEA07CA104,2007-04-17,"CONCORD, CA",United States,37.989722,-122.056944,Non-Fatal,Substantial,Airplane,Maule,MT-7-235,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2007,4
+N29100,LAX07CA132,2007-04-22,"COTTONWOOD, ID",United States,46.5,-116.433333,Non-Fatal,Substantial,Airplane,Cessna,U206-C,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Landing,0.0,2007,4
+N38730,MIA07CA096,2007-05-09,"FAIRMONT, WV",United States,39.448333,-80.166389,Non-Fatal,Substantial,Airplane,Piper,PA-28-180,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2007,5
+N729P,NYC07LA134,2007-06-08,"GALLATIN, TN",United States,36.406667,-86.358889,Non-Fatal,Substantial,Airplane,Raytheon Aircraft Company,A36,1.0,Reciprocating,Business,0.0,2.0,2.0,0.0,VMC,Descent,0.9999997500000625,2007,6
+N914DD,SEA07LA152,2007-06-10,"SANTA BARBARA, CA",United States,34.426111,-119.840277,Non-Fatal,Substantial,Airplane,Dassault-breguet,Mystere Falcon 900,3.0,Turbo Fan,Executive/corporate,0.0,0.0,0.0,15.0,VMC,Takeoff,0.0,2007,6
+N171SR,SEA07CA151,2007-06-10,"NOVATO, CA",United States,38.143611,-122.556111,Non-Fatal,Substantial,Airplane,Cirrus Design Corp.,SR22,1.0,Reciprocating,Business,0.0,0.0,0.0,3.0,VMC,Landing,0.0,2007,6
+N5129C,DEN07CA116,2007-07-03,"LOVELAND, CO",United States,40.451944,-105.011389,Non-Fatal,Substantial,Airplane,Cessna,T210N,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Landing,0.0,2007,7
+N501N,NYC07MA162,2007-07-10,"Sanford, FL",United States,28.809722,-81.292777,Fatal(5),Destroyed,Airplane,Cessna,310R,2.0,Reciprocating,Executive/corporate,5.0,4.0,0.0,0.0,VMC,Cruise,0.44444439506173394,2007,7
+N7380S,SEA07CA216,2007-07-24,"BAKER CITY, OR",United States,44.837222,-117.808889,Non-Fatal,Substantial,Airplane,Cessna,182P,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Landing,0.0,2007,7
+N435A,NYC07CA185,2007-07-27,"WALLKILL, NY",United States,41.627778,-74.133611,Non-Fatal,Substantial,Airplane,Beech,65-A90,2.0,Turbo Prop,Business,0.0,0.0,0.0,3.0,VMC,Landing,0.0,2007,7
+N40832,ANC07CA072,2007-08-01,"ANAKTUVUK PASS, AK",United States,68.687777,-151.880834,Non-Fatal,Substantial,Airplane,Piper,PA-18,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Approach,0.0,2007,8
+N6455R,ATL07CA118,2007-08-15,"FRONT ROYAL, VA",United States,38.917223,-78.252222,Non-Fatal,Substantial,Airplane,Piper,PA28-140,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2007,8
+N3120T,NYC07IA199,2007-08-15,"Alton, IL",United States,38.890555,-90.184166,Incident,Minor,Airplane,Piper,PA-32R-301T,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Descent,0.0,2007,8
+N2540T,CHI07CA285,2007-08-30,"ATLANTIC, IA",United States,41.403611,-95.048611,Non-Fatal,Substantial,Airplane,Navion,NAVION H,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Landing,0.0,2007,8
+N40325,CHI07CA298,2007-09-12,"KEENE, ND",United States,47.940555,-102.890555,Non-Fatal,Substantial,Airplane,Maule,M-4-220C,1.0,Reciprocating,Business,0.0,0.0,1.0,0.0,VMC,Takeoff,0.9999990000010001,2007,9
+N100G,NYC07LA229,2007-09-14,"ATLANTA, GA",United States,33.875556,-84.301944,Non-Fatal,Substantial,Airplane,Israel Aircraft Industries,Astra SPX,2.0,Turbo Fan,Executive/corporate,0.0,0.0,1.0,3.0,IMC,Landing,0.9999990000010001,2007,9
+N31MC,DEN08LA013,2007-10-17,"GOODLAND, KS",United States,39.368889,-101.692777,Non-Fatal,Substantial,Airplane,Learjet,35A,2.0,Turbo Fan,Business,0.0,0.0,0.0,2.0,IMC,Landing,0.0,2007,10
+N3971X,LAX08FA001,2007-10-26,"Cedar City, UT",United States,37.429167,-112.913333,Fatal(2),Destroyed,Airplane,Piper,PA-28R-200,1.0,Reciprocating,Business,2.0,0.0,0.0,0.0,VMC,Cruise,0.0,2007,10
+N4153M,SEA08CA018,2007-10-31,"STOCKTON, CA",United States,38.066389,-121.408333,Non-Fatal,Substantial,Airplane,Piper,PA-18-150,1.0,Reciprocating,Business,0.0,0.0,0.0,2.0,VMC,Taxi,0.0,2007,10
+N5912Q,CHI08CA035,2007-11-01,"LAFAYETTE, IN",United States,40.412222,-86.936944,Non-Fatal,Substantial,Airplane,Mooney,M20E,1.0,Reciprocating,Business,0.0,0.0,0.0,1.0,VMC,Cruise,0.0,2007,11
+N701SE,MIA08LA014A,2007-11-06,"OPA LOCKA, FL",United States,25.904167,-80.273611,Non-Fatal,Substantial,Airplane,Cessna,C208B,1.0,Turbo Prop,Business,0.0,0.0,0.0,2.0,VMC,Taxi,0.0,2007,11
+N5049Q,SEA08LA021,2007-11-06,"Garberville, CA",United States,40.075834,-123.816667,Fatal(3),Destroyed,Airplane,Cessna,340,2.0,Reciprocating,Business,3.0,0.0,0.0,0.0,IMC,Approach,0.0,2007,11
+N30GC,LAX08FA026,2007-11-06,"Chino, CA",United States,33.978056,-117.660278,Fatal(2),Destroyed,Airplane,Beech,A100,2.0,Turbo Prop,Executive/corporate,2.0,0.0,0.0,0.0,IMC,Takeoff,0.0,2007,11
+N209LS,DFW08LA030,2007-11-11,"SUGAR LAND, TX",United States,29.633056,-95.655556,Non-Fatal,Substantial,Airplane,Gulfstream Aerospace,G-IV,2.0,Turbo Fan,Business,0.0,0.0,0.0,8.0,VMC,Landing,0.0,2007,11
+N43274,NYC08FA053,2007-12-05,"AUGUSTA, GA",United States,33.481389,-82.040833,Fatal(1),Substantial,Airplane,Piper,PA-28R-200,1.0,Reciprocating,Business,1.0,0.0,0.0,0.0,VMC,Cruise,0.0,2007,12
+C-GPIA,LAX08CA036,2007-12-07,"BATTLE MOUNTAIN, NV",United States,40.6,-116.866667,Non-Fatal,Substantial,Airplane,Piaggio Aero Industries S.p.a.,Avanti P-180,2.0,Turbo Prop,Business,0.0,0.0,0.0,2.0,IMC,Landing,0.0,2007,12
+N925TT,SEA08FA042,2007-12-10,"Salmon, ID",United States,45.113889,-113.884722,Fatal(2),Destroyed,Airplane,Beech,200,2.0,Turbo Prop,Executive/corporate,2.0,0.0,0.0,2.0,IMC,Takeoff,0.0,2007,12
